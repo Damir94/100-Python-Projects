@@ -1,4 +1,3 @@
-
 from art2 import logo
 print(logo)
 
