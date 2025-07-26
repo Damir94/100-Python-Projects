@@ -1,3 +1,4 @@
+
 import art5, random
 
 print(art5.logo)
